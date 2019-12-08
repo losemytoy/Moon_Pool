@@ -28,9 +28,9 @@ public class HomeActivity extends AppCompatActivity {
     private int SELECT_IMAGE_REQUEST_CODE=201;
     protected final int PERMS_REQUEST_CODE = 202;
 
-    private EditText etInput;
-    private Bitmap qrCodeBitmap;
-    private ImageView ivQrImage;
+//    private EditText etInput;
+//    private Bitmap qrCodeBitmap;
+//    private ImageView ivQrImage;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
